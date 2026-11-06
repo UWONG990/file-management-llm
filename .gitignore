@@ -1,0 +1,14 @@
+# Local Python environment
+agent-env/
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment files
+.webui_secret_key
+.env
+.env.*
+
+# Runtime and scratch data
+logs/
+sandbox_trial_1/
+workspace/
